@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cyber Security  Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - [Creating a Live SOC/Honeynet in Azure)(https://github.com/BlessingTega/Azure-SOC)(https://github.com/BlessingTega/Azure-SOC)
+  - [Creating a Live SOC / Honeynet in Azure) (https://github.com/BlessingTega/Azure-SOC) (https://github.com/BlessingTega/Azure-SOC)
 
 <h2>📺 Popular YouTube Videos</h2>
 
