@@ -3,7 +3,13 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/BlessingTega/Azure-SOC)
-    
+- <b>Vulnerability Management Project</b>
+  - [Vulnerability Management with OpenVAS](https://github.com/BlessingTega/Vulnerability-Management-with-OpenVAS)
+  - [Vulnerability Management with Nessus](https://github.com/BlessingTega/Vulnerability-Management-with-Nessus)    
+- <b>Azure AD Logging And Monitoring</b>
+  - [Configuring Azure Tenant-Level Logging And Monitoring](https://github.com/BlessingTega/Configuring-Azure-Tenant-Level-Logging-And-Monitoring)
+ 
+ 
  ## Tools
 
 
